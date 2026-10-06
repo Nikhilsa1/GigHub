@@ -1,0 +1,19 @@
+# GigHub ML Backend Dependencies
+
+# Web Framework
+fastapi==0.115.0
+uvicorn[standard]==0.32.0
+pydantic==2.10.3
+
+# CORS Support
+python-multipart==0.0.20
+
+# ML/Data Processing (for future ML enhancements)
+numpy==2.2.1
+scikit-learn==1.6.1
+pandas==2.2.3
+
+# Optional: Advanced ML libraries (uncomment if needed)
+# xgboost==2.1.3
+# torch==2.5.1
+# tensorflow==2.18.0
